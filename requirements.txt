@@ -1,0 +1,7 @@
+# Everything the weekly scripts import.
+pandas
+numpy
+matplotlib
+scipy
+tabulate       # week 5 and 6 print tables with it
+openpyxl       # only if you want to read/write .xlsx as well as .csv

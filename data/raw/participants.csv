@@ -1,0 +1,182 @@
+participant_id,group,aphasia_type,age,sex,education_years,months_post_stroke,stroke_type,WAB_AQ,MoCA,depression_score
+P001,Control,None,75,Male,7,,,98.7,26.2,4
+P002,Control,None,82,female,7,,,98.7,27.7,18
+P003,Control,None,62,Male,5,,,95.5,26.2,19
+P004,Control,None,36,female,10,,,98.2,27.7,7
+P005,Control,None,63,Male,12,,,98.8,25.8,13
+P006,Control,None,145,Female,12,,,96.1,28.8,3
+P007,Control,None,40,Male,16,,,96.8,26.7,8
+P008,Control,None,86,female,5,,,97.3,25.6,12
+P009,Control,None,40,female,13,,,98.1,29.3,18
+P010,Control,None,47,Male,6,,,98.3,28.9,2
+P011,Control,None,89,Male,11,,,96.9,27.3,11
+P012,Control,None,45,M,15,,,96.0,26.3,21
+P013,Control,None,76,male,-2,,,98.2,27.7,7
+P014,Control,None,45,F,18,,,96.3,29.6,22
+P015,Control,None,70,female,11,,,96.6,28.8,1
+P016,Control,None,49,M,5,,,97.0,25.3,18
+P017,Control,None,80,Female,14,,,98.3,27.0,20
+P018,Control,None,64,M,8,,,95.7,28.7,17
+P019,Control,None,51,male,17,,,97.0,26.1,4
+P020,Control,None,67,Male,19,,,98.8,29.3,4
+P021,Control,None,75,female,9,,,97.1,25.3,12
+P022,Control,None,73,male,18,,,96.3,27.8,0
+P023,Control,None,78,female,7,,,99.4,28.8,24
+P024,Control,None,76,Male,14,,,96.5,25.8,0
+P025,Control,None,81,male,12,,,98.8,27.5,3
+P026,Control,None,75,female,13,,,97.5,26.0,11
+P027,Control,None,83,male,9,,,99.8,29.6,0
+P028,Control,None,73,F,14,,,95.1,29.6,9
+P029,Control,None,50,Female,5,,,99.4,29.7,2
+P030,Control,None,81,Male,19,,,99.9,27.7,4
+P031,Control,None,43,male,19,,,95.8,27.6,19
+P032,Control,None,62,male,10,,,98.8,28.4,22
+P033,Control,None,54,female,16,,,98.2,27.2,16
+P034,Control,None,63,Female,7,,,105,26.7,18
+P035,Control,None,70,male,11,,,96.1,25.4,20
+P036,Control,None,38,Male,11,,,99.5,29.3,2
+P037,Control,None,67,M,11,,,98.3,26.1,4
+P038,Control,None,81,Female,19,,,98.9,29.0,6
+P039,Control,None,41,female,7,,,97.2,27.1,14
+P040,Control,None,81,female,5,,,98.3,28.2,1
+P041,Control,None,60,Male,14,,,96.2,,14
+P042,Control,None,,Female,17,,,96.4,26.2,2
+P043,Control,None,63,Male,7,,,98.3,27.7,0
+P044,Control,None,40,Female,11,,,97.0,27.4,12
+P045,Control,None,38,F,9,,,95.0,27.0,14
+P046,Control,None,53,female,17,,,99.8,30.0,17
+P047,Control,None,77,Female,19,,,95.9,26.1,1
+P048,Control,None,72,female,5,,,96.6,25.3,15
+P049,Control,None,67,Female,20,,,95.3,27.5,5
+P050,Control,None,39,female,6,,,99.3,27.0,18
+P051,Control,None,50,male,5,,,95.4,28.3,18
+P052,Control,None,68,M,14,,,96.0,28.6,7
+P053,Control,None,51,Female,16,,,98.4,26.5,10
+P054,Control,None,83,Male,6,,,97.3,30.0,3
+P055,Control,None,39,male,10,,,96.3,29.7,2
+P056,Control,None,50,M,15,,,95.8,29.2,22
+P057,Control,None,54,Male,20,,,98.3,27.8,21
+P058,Control,None,41,M,8,,,95.6,25.5,17
+P059,Control,None,44,M,12,,,98.0,28.6,6
+P060,Control,None,78,male,12,,,97.4,29.5,1
+P061,Patient, broca,40,M,17,3,Ischemic,48.3,14.1,8
+P062,Patient, broca,82,male,18,46,Hemorrhagic,57.4,13.8,22
+P063,Patient,Broca,69,M,5,38,Ischemic,52.2,12.7,11
+P064,Patient, broca,57,female,10,16,Ischemic,49.1,21.0,13
+P065,Patient,Broca ,50,Female,9,57,Hemorrhagic,36.0,23.8,10
+P066,Patient, broca,86,M,11,11,Ischemic,50.3,12.6,15
+P067,Patient,BROCA,47,M,18,20,Ischemic,43.9,22.6,12
+P068,Patient,Broca,52,M,6,23,Hemorrhagic,62.2,25.5,10
+P069,Patient,BROCA,42,Female,12,38,Hemorrhagic,36.5,21.5,11
+P070,Patient, broca,62,Male,20,25,Ischemic,45.2,23.3,0
+P071,Patient,BROCA,58,male ,17,43,Hemorrhagic,59.9,22.6,3
+P072,Patient, broca,67,female,13,27,Hemorrhagic,51.1,16.7,4
+P073,Patient,Broca,61,female,16,48,Ischemic,59.6,16.8,17
+P074,Patient,Broca ,54,Female,13,28,Hemorrhagic,53.6,19.1,6
+P075,Patient,Broca,85,female,9,6,Hemorrhagic,55.6,22.1,10
+P076,Patient, broca,87,female,11,20,Ischemic,67.3,14.4,1
+P077,Patient, broca,65,F,6,27,Ischemic,63.7,18.1,12
+P078,Patient,Broca ,44,Male,4,50,Hemorrhagic,43.8,24.9,22
+P079,Patient,BROCA,38,Male,11,30,Ischemic,67.1,22.7,17
+P080,Patient,Broca ,83,male,18,53,Hemorrhagic,68.2,20.8,5
+P081,Patient, broca,63,Female,12,54,Hemorrhagic,65.6,20.3,20
+P082,Patient,Broca,52,Male,18,46,Hemorrhagic,44.4,17.4,17
+P083,Patient,BROCA,43,Female,8,25,Ischemic,63.3,13.0,13
+P084,Patient,Broca,69,F,18,4,Ischemic,68.3,18.2,24
+P085,Patient, broca,89,F,16,1,Hemorrhagic,46.9,18.2,13
+P086,Patient,Broca ,66,M,11,28,Hemorrhagic,36.2,17.4,21
+P087,Patient,Broca,81,F,9,59,Ischemic,74.2,20.5,12
+P088,Patient, broca,40,Female,17,56,Hemorrhagic,42.3,16.2,10
+P089,Patient,BROCA,64,M,14,49,Hemorrhagic,46.1,27.2,13
+P090,Patient,Broca,88,F,6,2,Ischemic,75.0,17.6,20
+P091,Patient, broca,84,Male,5,16,Ischemic,68.6,21.9,7
+P092,Patient,Broca,65,male,7,14,Hemorrhagic,63.0,24.3,5
+P093,Patient,Broca ,84,M,9,7,Ischemic,72.2,21.2,12
+P094,Patient,Broca,80,Male,10,38,Ischemic,39.1,24.4,21
+P095,Patient,BROCA,85,M,5,35,Hemorrhagic,61.5,13.1,20
+P096,Patient,Wernicke,35,F,17,7,Hemorrhagic,78.4,22.2,14
+P097,Patient,Wernicke,80,F,8,12,Hemorrhagic,64.6,26.7,24
+P098,Patient,Wernicke,65,F,18,53,Hemorrhagic,52.9,15.9,2
+P099,Patient,Wernicke,52,Female,18,49,Hemorrhagic,62.8,22.7,10
+P100,Patient,Wernicke,36,M,19,12,Hemorrhagic,48.5,24.8,10
+P101,Patient,WERNICKE,52,male,12,1,Ischemic,43.4,23.5,15
+P102,Patient,Wernicke,70,female,11,31,Hemorrhagic,57.9,12.3,9
+P103,Patient,Wernicke,49,female,16,16,Hemorrhagic,66.6,17.9,17
+P104,Patient,Wernicke,68,F,15,48,Hemorrhagic,54.1,19.3,9
+P105,Patient,Wernicke,51,Male,11,47,Ischemic,52.6,23.9,24
+P106,Patient,Wernicke,79,Female,9,14,Hemorrhagic,51.1,21.4,24
+P107,Patient,Wernicke,68,Male,13,54,Ischemic,51.8,17.8,9
+P108,Patient,Wernicke,35,M,8,3,Ischemic,62.1,23.2,4
+P109,Patient,Wernicke,75,Male,19,56,Ischemic,63.0,19.5,14
+P110,Patient,Wernicke,56,Male,9,17,Hemorrhagic,44.6,13.0,15
+P111,Patient,Wernicke,39,Female,5,10,Hemorrhagic,43.4,16.0,17
+P112,Patient,Wernicke,83,male,17,39,Ischemic,71.0,18.1,14
+P113,Patient,Wernicke,54,M,17,37,Ischemic,64.4,23.8,24
+P114,Patient,Wernicke,48,M,10,43,Ischemic,46.3,14.8,2
+P115,Patient,Wernicke,45,F,4,29,Hemorrhagic,51.7,15.7,22
+P116,Patient,Wernicke,53,Male,18,44,Ischemic,77.0,24.6,20
+P117,Patient,Wernicke,72,F,10,8,Ischemic,65.9,26.5,4
+P118,Patient,Wernicke,39,Female,5,51,Hemorrhagic,63.8,25.2,9
+P119,Patient,Wernicke,63,F,7,45,Hemorrhagic,68.0,27.1,16
+P120,Patient,Wernicke,69,F,19,6,Ischemic,75.6,23.8,19
+P121,Patient,Conduction,51,Male,4,15,Ischemic,90.0,22.8,8
+P122,Patient,Conduction,71,Female,5,31,Hemorrhagic,87.1,14.9,18
+P123,Patient,Conduction,62,Male,19,31,Hemorrhagic,69.3,17.1,3
+P124,Patient,Conduction,89,M,9,27,Hemorrhagic,65.1,27.1,24
+P125,Patient,Conduction,70,F,5,6,Hemorrhagic,63.8,13.9,24
+P126,Patient,Conduction,60,Male,20,43,Hemorrhagic,69.5,15.0,11
+P127,Patient,Conduction,74,female,19,29,Ischemic,62.1,20.8,9
+P128,Patient,Conduction,63,Male,19,2,Ischemic,79.8,17.0,0
+P129,Patient,Conduction,70,Male,17,15,Ischemic,71.2,13.9,4
+P130,Patient,Conduction,66,male,13,46,Hemorrhagic,69.5,19.7,15
+P131,Patient,Conduction,50,male,18,10,Hemorrhagic,61.7,21.6,23
+P132,Patient,Conduction,43,M,6,50,Hemorrhagic,66.9,24.6,8
+P133,Patient,Conduction,87,M,4,47,Hemorrhagic,84.3,21.3,21
+P134,Patient,Conduction,66,F,8,35,Hemorrhagic,67.1,20.8,17
+P135,Patient,Conduction,59,M,18,56,Ischemic,89.3,15.8,12
+P136,Patient,Conduction,49,Male,17,21,Hemorrhagic,79.7,25.0,12
+P137,Patient,Conduction,77,F,8,3,Ischemic,72.6,21.4,3
+P138,Patient,Conduction,89,Male,18,34,Hemorrhagic,55.5,14.3,20
+P139,Patient,Conduction,44,F,6,51,Hemorrhagic,66.8,23.1,20
+P140,Patient,Conduction,40,female,14,55,Hemorrhagic,88.4,22.0,24
+P141,Patient,Anomic,66,male,5,5,Ischemic,85.8,26.7,7
+P142,Patient,Anomic,82,F,6,7,Ischemic,81.1,23.1,0
+P143,Patient,Anomic,37,Male,14,19,Hemorrhagic,79.4,14.3,16
+P144,Patient,Anomic,61,Female,9,12,Ischemic,85.2,18.1,21
+P145,Patient,Anomic,50,male,19,10,Ischemic,81.5,16.1,8
+P146,Patient,Anomic,77,F,4,58,Hemorrhagic,86.9,14.5,14
+P147,Patient,Anomic,57,female,13,28,Hemorrhagic,81.4,16.8,12
+P148,Patient,Anomic,89,Male,19,16,Hemorrhagic,84.3,21.2,22
+P149,Patient,Anomic,53,female,4,26,Hemorrhagic,70.2,25.8,24
+P150,Patient,Anomic,82,male,5,48,Hemorrhagic,90.8,26.4,24
+P151,Patient,Anomic,86,male,11,52,Hemorrhagic,75.5,15.0,8
+P152,Patient,Anomic,78,female,8,7,Ischemic,77.7,19.1,18
+P153,Patient,Anomic,58,Male,8,59,Hemorrhagic,78.2,18.6,6
+P154,Patient,Anomic,43,male,15,33,Hemorrhagic,90.8,16.1,15
+P155,Patient,Anomic,86,female,13,56,Hemorrhagic,90.1,19.5,2
+P156,Patient,Anomic,44,female,11,47,Hemorrhagic,94.2,24.9,11
+P157,Patient,Anomic,40,Male,16,17,Ischemic,81.4,22.8,21
+P158,Patient,Anomic,51,female,16,24,Ischemic,86.9,19.5,19
+P159,Patient,Anomic,70,male,14,15,Ischemic,85.9,19.4,22
+P160,Patient,Anomic,54,Male,17,9,Ischemic,93.7,16.9,15
+P161,Patient,Global,42,Female,7,57,Ischemic,14.7,17.9,23
+P162,Patient,Global,79,male,17,48,Ischemic,27.1,22.5,15
+P163,Patient,Global,74,M,17,3,Hemorrhagic,10.4,19.1,7
+P164,Patient,Global,89,Male,15,44,Hemorrhagic,18.6,27.6,11
+P165,Patient,Global,38,M,16,13,Ischemic,28.7,25.2,2
+P166,Patient,Global,77,female,10,41,Ischemic,6.3,17.3,4
+P167,Patient,Global,85,Male,10,54,Ischemic,19.7,25.0,7
+P168,Patient,Global,56,male,8,1,Hemorrhagic,26.5,14.3,4
+P169,Patient,Global,69,Female,12,8,Ischemic,8.3,17.7,7
+P170,Patient,Global,72,Male,14,12,Hemorrhagic,6.3,23.9,16
+P171,Patient,Global,42,F,6,29,Hemorrhagic,17.8,13.7,16
+P172,Patient,Global,49,female,5,51,Hemorrhagic,16.5,27.4,1
+P173,Patient,Global,65,F,16,44,Ischemic,17.3,26.6,2
+P174,Patient,Global,40,male,14,10,Ischemic,8.2,22.0,18
+P175,Patient,Global,70,F,14,39,Hemorrhagic,16.3,21.7,3
+P176,Patient,Global,85,female,7,42,Ischemic,15.8,26.2,13
+P177,Patient,Global,56,F,18,27,Ischemic,12.8,17.0,8
+P178,Patient,Global,58,female,8,60,Hemorrhagic,6.7,25.3,2
+P179,Patient,Global,62,female,7,48,Hemorrhagic,25.3,20.9,18
+P180,Patient,Global,70,female,14,8,Hemorrhagic,13.8,22.6,24
+P021,Control,None,75,female,9,,,97.1,25.3,12
